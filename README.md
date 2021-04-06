@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @oshark-22
 - 👀 I’m interested in electrical safety and programming
 - 🌱 I’m currently learning how to become front-end web developer
-- 💞️ I’m looking to collaborate on building a website for sime organization or company
+- 💞️ I’m looking to collaborate on building a website for some organization or company
 - 📫 Reach me on Linkedin https://id.linkedin.com/in/11ikhsan or instagram @11ikhsan
 
 Peace be Upon You all :)
